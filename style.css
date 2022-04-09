@@ -1,0 +1,29 @@
+body
+{
+    background-color: aliceblue;
+}
+
+.videoUno
+{
+    position: absolute;
+    left: 150px;
+    top: 300px;
+    font-family: roboto;
+
+}
+.videoDos
+{
+    position: absolute;
+    left: 830px;
+    top: 300px;
+    font-family: roboto;
+
+}
+
+.texto
+{
+    position: absolute;
+    font-family: roboto;
+    font-size: 25px;
+    left: 50px;
+}
